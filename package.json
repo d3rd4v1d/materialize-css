@@ -1,0 +1,20 @@
+{
+  "name": "materialize-css",
+  "version": "1.0.0",
+  "description": "My example of MaterializeCSS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^1.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8",
+    "materialize-css": "^0.100.2"
+  }
+}
